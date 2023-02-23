@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647958252 source:f:\tushar\c only\area of circle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

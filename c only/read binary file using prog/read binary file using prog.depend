@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649957631 source:f:\tushar\c only\read binary file using prog\main.c
+	<stdio.h>
+	<stdlib.h>
+

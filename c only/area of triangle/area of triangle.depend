@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647958999 source:f:\tushar\c only\area of triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
